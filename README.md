@@ -1,4 +1,4 @@
-# PM_marketing-and-Strategy-
+# Election Commision of India Datasets
 1. Problem Definition
    ↓
 2. Data Collection
